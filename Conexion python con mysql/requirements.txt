@@ -1,0 +1,15 @@
+# Dependencias para conectar Python con MySQL
+
+# Conector oficial de Oracle para MySQL
+mysql-connector-python==8.2.0
+
+# Alternativa pura de Python para MySQL
+PyMySQL==1.1.0
+
+# Opcional: Para manejo de variables de entorno
+python-dotenv==1.0.0
+
+# Opcional: Para logging avanzado
+colorlog==6.8.0
+
+
